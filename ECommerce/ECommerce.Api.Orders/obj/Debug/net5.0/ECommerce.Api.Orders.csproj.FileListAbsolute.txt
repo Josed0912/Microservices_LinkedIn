@@ -1,0 +1,6 @@
+C:\Users\2135164\OneDrive - John Abbott College\Desktop\ECommerce\ECommerce.Api.Orders\obj\Debug\net5.0\ECommerce.Api.Orders.csproj.AssemblyReference.cache
+C:\Users\2135164\OneDrive - John Abbott College\Desktop\ECommerce\ECommerce.Api.Orders\obj\Debug\net5.0\ECommerce.Api.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2135164\OneDrive - John Abbott College\Desktop\ECommerce\ECommerce.Api.Orders\obj\Debug\net5.0\ECommerce.Api.Orders.AssemblyInfoInputs.cache
+C:\Users\2135164\OneDrive - John Abbott College\Desktop\ECommerce\ECommerce.Api.Orders\obj\Debug\net5.0\ECommerce.Api.Orders.AssemblyInfo.cs
+C:\Users\2135164\OneDrive - John Abbott College\Desktop\ECommerce\ECommerce.Api.Orders\obj\Debug\net5.0\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+C:\Users\2135164\OneDrive - John Abbott College\Desktop\ECommerce\ECommerce.Api.Orders\obj\Debug\net5.0\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
