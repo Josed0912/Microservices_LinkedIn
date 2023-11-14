@@ -1,8 +1,9 @@
-﻿using System;
+﻿using ECommerce.Api.Orders.Db;
+using System;
 
-namespace ECommerce.Api.Orders.Db
+namespace ECommerce.Api.Orders.Models
 {
-    public class Order
+    public class OrderModel
     {
         public int Id { get; set; }
         public int CustomerId { get; set; }

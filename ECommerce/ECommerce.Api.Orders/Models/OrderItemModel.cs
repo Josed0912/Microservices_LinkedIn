@@ -1,6 +1,6 @@
-﻿namespace ECommerce.Api.Orders.Db
+﻿namespace ECommerce.Api.Orders.Models
 {
-    public class OrderItem
+    public class OrderItemModel
     {
         public int Id { get; set; }
         public int OrderId { get; set; }
