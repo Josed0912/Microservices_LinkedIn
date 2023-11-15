@@ -38,7 +38,7 @@ namespace ECommerce.Api.Orders.Providers
         {
             try
             {
-                var order = await dbContext.Orders.FirstOrDefaultAsync(p => p.Id == id);
+                var order = await dbContext.Orders.FirstOrDefaultAsync(o => o.Id == id);
 
                 if (order != null)
                 {

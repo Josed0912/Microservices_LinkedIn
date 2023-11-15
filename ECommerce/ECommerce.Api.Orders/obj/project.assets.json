@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+      "projectUniqueName": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
       "projectName": "ECommerce.Api.Orders",
-      "projectPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+      "projectPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
       "packagesPath": "C:\\Users\\2135164\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Orders\\obj\\",
+      "outputPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Orders\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

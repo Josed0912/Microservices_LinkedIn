@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {}
+    "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+    "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectUniqueName": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "projectName": "ECommerce.Api.Products",
-        "projectPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "packagesPath": "C:\\Users\\2135164\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Desktop\\ECommerce\\ECommerce.Api.Products\\obj\\",
+        "outputPath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
