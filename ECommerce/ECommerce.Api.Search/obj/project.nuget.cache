@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Az4/TI4ANM8nGokvcTi22t4ltxGg03A1RBqA8BVZ0q4MrZ03mExL39tcPXy8T6HNO4JhuhI8Xoz91zwoaeH1yg==",
+  "dgSpecHash": "wCqUMgnY2m5Fzg5CsltqQsUHG2QvEBJQ9LCKxw9VbcGsqV0eI9+9AtvkaHTI5Y4zIacEFzChj2qvoVJle3p2uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
