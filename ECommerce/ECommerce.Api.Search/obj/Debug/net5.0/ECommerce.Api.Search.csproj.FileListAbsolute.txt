@@ -24,3 +24,8 @@ C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_L
 C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\obj\Debug\net5.0\ECommerce.Api.Search.pdb
 C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\obj\Debug\net5.0\ECommerce.Api.Search.genruntimeconfig.cache
 C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\obj\Debug\net5.0\ref\ECommerce.Api.Search.dll
+C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\bin\Debug\net5.0\Polly.dll
+C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\obj\Debug\net5.0\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\Users\2135164\OneDrive - John Abbott College\Documents\GitHub\Microservices_LinkedIn\ECommerce\ECommerce.Api.Search\obj\Debug\net5.0\ECommerce.Api.Search.csproj.CopyComplete

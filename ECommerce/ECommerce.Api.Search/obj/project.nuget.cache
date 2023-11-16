@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "wCqUMgnY2m5Fzg5CsltqQsUHG2QvEBJQ9LCKxw9VbcGsqV0eI9+9AtvkaHTI5Y4zIacEFzChj2qvoVJle3p2uQ==",
+  "dgSpecHash": "KLNF6ti1NKycWW6KH4QEwoeFmChkK8vYTcq/sm0RV19D9YDN3no1/J3MW0eALCSLeSSUa7t8tZzw7TVxHvmFdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\2135164\\OneDrive - John Abbott College\\Documents\\GitHub\\Microservices_LinkedIn\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.http.polly\\5.0.1\\microsoft.extensions.http.polly.5.0.1.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\2135164\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
