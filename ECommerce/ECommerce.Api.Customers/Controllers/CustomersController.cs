@@ -4,6 +4,15 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Api.Customers.Controllers
 {
+    /*
+     * Course:      Web Programming 3
+     * Assessment:  Milestone 3
+     * Created by:  Jose David Torres
+     * Date:        16/11/2023
+     * Class Name:  CustomersController.cs
+     * Description: Controller that handles the retrieval of the Customer data in the in-memory database.
+     */
+
     [ApiController]
     [Route("api/customers")]
     public class CustomersController : ControllerBase

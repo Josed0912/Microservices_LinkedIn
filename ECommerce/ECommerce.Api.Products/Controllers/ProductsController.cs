@@ -4,6 +4,15 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Api.Products.Controllers
 {
+    /*
+  * Course:         Web Programming 3
+  * Assessment:     Milestone 3
+  * Created by:     Jose David Torres
+  * Date:           16/11/2023
+  * Class Name:     ProductsController.cs
+  * Description:    Controller that handles the retrieval of the Product data in the in-memory database.
+  */
+
     [ApiController]
     [Route("api/products")]
     public class ProductsController : ControllerBase
