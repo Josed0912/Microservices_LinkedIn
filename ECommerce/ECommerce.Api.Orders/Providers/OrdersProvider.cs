@@ -23,38 +23,26 @@ namespace ECommerce.Api.Orders.Providers
             this.logger = logger;
             this.mapper = mapper;
 
-            //SeedData();
+            SeedData();
         }
 
         private void SeedData()
         {
             if (!dbContext.Orders.Any())
             {
-                //add sample data
-            }
-        }
-
-        public async Task<(bool IsSuccess, OrderModel Order, string ErrorMessage)> GetOrderAsync(int id)
-        {
-            try
-            {
-                var order = await dbContext.Orders.FirstOrDefaultAsync(o => o.Id == id);
-
-                if (order != null)
+                dbContext.Orders.Add(new Order()
                 {
-                    var result = mapper.Map<Order, OrderModel>(order);
-                    return (true, result, null);
-                }
-                return (false, null, "Not found");
-            }
-            catch (Exception ex)
-            {
-                logger?.LogError(ex.ToString());
-                return (false, null, ex.Message);
+                    Id = 1,
+                    CustomerId = 1,
+                    OrderDate = DateTime.Now,
+                    Items = new List<OrderItem> { new OrderItem() { Id = 1, ProductId = 1, Quantity = 5, UnitPrice = 5.99M } },
+                    Total = 5.99M
+                });
+                dbContext.SaveChanges();
             }
         }
 
-        public async Task<(bool IsSuccess, IEnumerable<OrderModel> Orders, string ErrorMessage)> GetOrdersAsync()
+        public async Task<(bool IsSuccess, IEnumerable<OrderModel> Orders, string ErrorMessage)> GetOrdersAsync(int customerId)
         {
             try
             {

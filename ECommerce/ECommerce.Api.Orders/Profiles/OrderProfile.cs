@@ -8,6 +8,7 @@ namespace ECommerce.Api.Orders.Profiles
         public OrderProfile()
         {
             CreateMap<Order, OrderModel>();
+            CreateMap<OrderItem, OrderItemModel>();
         }
     }
 }

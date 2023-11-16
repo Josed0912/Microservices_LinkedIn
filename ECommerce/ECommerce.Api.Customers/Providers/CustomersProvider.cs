@@ -30,7 +30,7 @@ namespace ECommerce.Api.Customers.Providers
         {
             if (!dbContext.Customers.Any())
             {
-                dbContext.Customers.Add(new Customer() {Id = 1, Name= "Jose", Address="jose@gmail.com" });
+                dbContext.Customers.Add(new Customer() {Id = 1, Name= "Jose", Address="21275 Rue Lakeshore" });
                 dbContext.SaveChanges();
             }
         }

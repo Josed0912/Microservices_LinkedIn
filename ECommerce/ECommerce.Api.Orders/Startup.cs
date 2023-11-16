@@ -28,7 +28,6 @@ namespace ECommerce.Api.Orders
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IOrderItemsProvider, OrderItemsProvider>();
             services.AddScoped<IOrdersProvider, OrdersProvider>();
             services.AddAutoMapper(typeof(Startup));
             services.AddDbContext<OrdersDbContext>(options =>
