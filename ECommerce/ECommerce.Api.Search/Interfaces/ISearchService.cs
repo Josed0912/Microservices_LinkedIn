@@ -4,6 +4,6 @@ namespace ECommerce.Api.Search.Interfaces
 {
     public interface ISearchService
     {
-        Task<(bool IsSuccess, dynamic SearchResults)> SeacrhAsync(int customerId);
+        Task<(bool IsSuccess, dynamic SearchResults)> SearchAsync(int customerId);
     }
 }
